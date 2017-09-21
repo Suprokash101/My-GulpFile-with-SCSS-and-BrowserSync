@@ -1,29 +1,29 @@
-#node_modules/
+node_modules/
 
-#*.md
+*.md
 
-#*.json
+*.json
 
-#*.txt
+*.txt
 
-#gulpfile.js
+gulpfile.js
 
-#.gitignore
+.gitignore
 
-#LICENSE
+LICENSE
 
 ### macOS ###
-#*.DS_Store
-#.AppleDouble
-#.LSOverride
+*.DS_Store
+.AppleDouble
+.LSOverride
 
 ### Windows ###
 # Windows image file caches
-#Thumbs.db
-#ehthumbs.db
+Thumbs.db
+ehthumbs.db
 
 # Folder config file
-#Desktop.ini
+Desktop.ini
 
 # Windows shortcuts
-#*.lnk
+*.lnk
