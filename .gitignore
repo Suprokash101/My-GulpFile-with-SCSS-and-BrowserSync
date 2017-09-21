@@ -1,0 +1,29 @@
+#node_modules/
+
+#*.md
+
+#*.json
+
+#*.txt
+
+#gulpfile.js
+
+#.gitignore
+
+#LICENSE
+
+### macOS ###
+#*.DS_Store
+#.AppleDouble
+#.LSOverride
+
+### Windows ###
+# Windows image file caches
+#Thumbs.db
+#ehthumbs.db
+
+# Folder config file
+#Desktop.ini
+
+# Windows shortcuts
+#*.lnk

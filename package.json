@@ -1,0 +1,25 @@
+{
+  "name": "Starter-Project-With-SASS",
+  "version": "1.0.0",
+  "description": "Starter Project with SASS and Gulp support.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Suprokash Chakraborty",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}
