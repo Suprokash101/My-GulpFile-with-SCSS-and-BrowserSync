@@ -9,7 +9,7 @@ $ git clone https://github.com/Suprokash101/My-GulpFile-with-SCSS-and-BrowserSyn
 
 **Step 2**: Edit the directory name or Move into the directory as it is
 ```bash
-$ cd gulp-starter-kit-with-browserSync-liveReload
+$ cd My-GulpFile-with-SCSS-and-BrowserSync
 ```
 
 **Step 3**: Install dependencies
